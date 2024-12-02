@@ -1,4 +1,4 @@
-# Backend Developer Skills Assessment API
+# Assessment API
 
 This repository contains a minimal REST API built using ASP.NET Core. The API includes the following features:
 
